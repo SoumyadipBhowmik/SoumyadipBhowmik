@@ -19,7 +19,7 @@ I'm a Civil Engineer but with a passion in Computer Science. I'm currently a 4th
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<h2>RESOURCESS I USE TO DEVELOP MY SKILLS</h2>
+<h2>RESOURCES I USE TO DEVELOP MY SKILLS</h2>
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
