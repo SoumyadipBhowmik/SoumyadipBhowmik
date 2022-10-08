@@ -36,4 +36,5 @@ I'm a Civil Engineer but with a passion in Computer Science. I'm currently a 4th
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyadipBhowmik&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipBhowmik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoumyadipBhowmik&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SoumyadipBhowmik" />
+[![SoumyadipBhowmik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SoumyadipBhowmik&theme=xcode)](https://git.io/SoumyadipBhowmik)
