@@ -1,6 +1,40 @@
-PROTOTYPE OF A SELF MADE GITHUB PROFILE. I'LL BE CHANGING AS WE GO.
+<h2> BRIEF SUMMARY </h2>
 
-HI, MY NAME IS SOUMYADIP BHOWMIK.
-I'M A CIVIL ENGINEER BUT WITH A PASSION IN COMPUTER SCIENCE. I'M CURRENTLY A 4TH YEAR UNDERGRADUATE IN CIVIL ENGINEERING. I ASPIRE TO BECOME A SUCCESSFULL SOFTWARE DEVELOPER AND I'M SELF STUDING MY WAY INTO IT. I'M HERE TO FULLFILL A COMMITMENT THAT I'VE MADE TO MYSELF AND I'M NOT STOPPING BEFORE THAT.
+<h3>Hi, My name is SOUMYADIP BHOWMIK.</h3>
 
-I HAVE FEW TECHNICAL SKILLS THAT I'M DEVELOPING SLOWLY. SOME OF THEM ARE C LANGUAGE, C++, JAVA AND PYTHON. AS IM STILL WORKING MY WAY ON DATA STRUCTURES AND ALGORITHMS I'VE SUCCESFULLY COMPLETED A PROJECT ON IOT WITH SOME HELP.
+I'm a Civil Engineer but with a passion in Computer Science. I'm currently a 4th year undergraduate majoring in Civil Engineering. I aspire to become successful Software Developer and I'm self studying my way into it. I'm here to fulfill  a commitment that I've made to myself and I'm not stopping before that.
+
+
+<h2>TECHNICAL SKILLS I POSSESS</h2>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+<h2>RESOURCESS I USE TO DEVELOP MY SKILLS</h2>
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+<h2>YOU CAN CONTACT ME ON</h2>
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+![Soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyadipBhowmik&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipBhowmik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
