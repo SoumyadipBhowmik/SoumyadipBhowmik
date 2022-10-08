@@ -1,9 +1,8 @@
-<h2> BRIEF SUMMARY </h2>
+<h2>Hi, My name is SOUMYADIP BHOWMIK.</h2>
 
-<h3>Hi, My name is SOUMYADIP BHOWMIK.</h3>
+I'm a Civil Engineer but with a passion in Computer Science. I'm currently a 4th year undergraduate majoring in Civil Engineering. I aspire to become successful Software Developer and I'm self studying my way into it. I'm here to fulfill a commitment that I've made to myself and I'm not stopping before that.
 
-I'm a Civil Engineer but with a passion in Computer Science. I'm currently a 4th year undergraduate majoring in Civil Engineering. I aspire to become successful Software Developer and I'm self studying my way into it. I'm here to fulfill  a commitment that I've made to myself and I'm not stopping before that.
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SoumyadipBhowmik&theme=dark)](https://git.io/streak-stats)
 
 <h2>TECHNICAL SKILLS I POSSESS</h2>
 
