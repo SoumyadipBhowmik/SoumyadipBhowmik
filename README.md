@@ -1,4 +1,5 @@
 <h2>Hi, My name is SOUMYADIP BHOWMIK.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&duration=3000&pause=500&color=E14343&center=true&vCenter=true&width=435&lines=Learner;Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 I'm a 4th year undergraduate Civil Engineer but with a passion in Computer Science. I aspire to become successful Software Developer and I'm self studying my way into it. I'm here to fulfill a commitment that I've made to myself and I'm not stopping before that.
 
