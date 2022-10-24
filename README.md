@@ -1,8 +1,4 @@
-## Hello World, My name is Soumyadip Bhowmik
-
-## 🙋‍♂️ About Me
-I'm a 4th year undergraduate Civil Engineer but with a passion in Computer Science. I aspire to become successful Software Developer and I'm self studying my way into it. I'm here to fulfill a commitment that I've made to myself and I'm not stopping before that.
-
+## Hey, it's Soumyadip Bhowmik
 
 ##  🔥My Streak
 <p align="center">
