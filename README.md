@@ -1,11 +1,17 @@
 ## Hey, it's Soumyadip Bhowmik
 
 ##  🔥My Streak
+<table align="center"><td>
 <p align="center">
     <a href="https://github.com/SoumyadipBhowmik/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyadip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyadipBhowmik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p></td></table>
+
+<table align="center">
+<td><a href="https://github.com/Soumyadip/github-readme-stats"><img alt="Soumyadip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SoumyadipBhowmik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+  <td><a href="https://github.com/SoumyadipBhowmik/github-readme-stats"><img alt="Soumyadip's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipBhowmik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+</table>
 
 ## 🚀 Languages and Tools:
 
@@ -40,15 +46,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Soumyadip/github-readme-stats"><img alt="Soumyadip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SoumyadipBhowmik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SoumyadipBhowmik/github-readme-stats"><img alt="Soumyadip's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipBhowmik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   
-
-
-<br/>
-<br/>
 
 <a href="https://github.com/SoumyadipBhowmik/github-readme-activity-graph"><img alt="SoumyadipBhowmik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoumyadipBhowmik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
