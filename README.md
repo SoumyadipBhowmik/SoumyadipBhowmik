@@ -31,10 +31,10 @@
 
 ## 🌟Resources I use everyday
 
-<a href = "https://www.hackerrank.com/SoumyadipBhowmik">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href = "https://www.codingninjas.com/codestudio/profile/Soumyadip">![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)</a>
-<a href = "https://www.udemy.com/user/soumyadip-bhowmik-3/">![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)</a>
-<a href = "https://leetcode.com/Soumyadipp/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href = "https://www.hackerrank.com/SoumyadipBhowmik" target = "_blank">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href = "https://www.codingninjas.com/codestudio/profile/Soumyadip" target = "_blank">![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)</a>
+<a href = "https://www.udemy.com/user/soumyadip-bhowmik-3/" target = "_blank">![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)</a>
+<a href = "https://leetcode.com/Soumyadipp/" target = "_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 ## 📱You can contact me here
 
