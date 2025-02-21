@@ -36,15 +36,6 @@ I'm proficient in the following technologies:
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
-### Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/graphql-%23E36209.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Neo4j-007AD9?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-</p>
-
 ### Backend
 
 <p align="center">
@@ -54,6 +45,16 @@ I'm proficient in the following technologies:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Hasura-4732FF?style=for-the-badge&logo=hasura&logoColor=white" alt="Hasura"/>
   <img src="https://img.shields.io/badge/Dart-00015F?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+### Database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/graphql-%23E36209.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Neo4j-007AD9?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 ### Frontend
@@ -74,6 +75,7 @@ I'm proficient in the following technologies:
   <img src="https://img.shields.io/badge/linux-%23171515.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/keycloak-1EA99A?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/apache_kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/spotless-2A2A2A?style=for-the-badge&logo=spotless&logoColor=white" alt="Spotless"/>
   <img src="https://img.shields.io/badge/sonarqube-4E525D?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
   <img src="https://img.shields.io/badge/opentelemetry-373BD6?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
