@@ -23,26 +23,10 @@ I'm a passionate developer with a strong focus on **backend development**. I enj
 
 I'm proficient in the following technologies:
 
-### Frontend
+### Cloud Exposure
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/sveltekit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
-</p>
-
-### Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD5.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Hasura-4732FF?style=for-the-badge&logo=hasura&logoColor=white" alt="Hasura"/>
-  <img src="https://img.shields.io/badge/Dart-00015F?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
 ### Mobile Development
@@ -59,6 +43,28 @@ I'm proficient in the following technologies:
   <img src="https://img.shields.io/badge/graphql-%23E36209.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Neo4j-007AD9?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD5.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Hasura-4732FF?style=for-the-badge&logo=hasura&logoColor=white" alt="Hasura"/>
+  <img src="https://img.shields.io/badge/Dart-00015F?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/sveltekit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
 </p>
 
 ### Tools
@@ -78,11 +84,6 @@ I'm proficient in the following technologies:
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### Cloud Exposure
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
 
 ## 🌟 Resources I Use Daily
 
@@ -90,9 +91,9 @@ I find these platforms incredibly helpful for learning and practicing:
 
 <p align="center">
   <a href = "https://www.hackerrank.com/SoumyadipBhowmik" target = "_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"/></a>
-  <a href = "https://www.codingninjas.com/codestudio/profile/Soumyadip" target = "_blank"><img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas"/></a>
-  <a href = "https://www.udemy.com/user/soumyadip-bhowmik-3/" target = "_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/></a>
   <a href = "https://leetcode.com/Soumyadipp/" target = "_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
+  <a href = "https://www.udemy.com/user/soumyadip-bhowmik-3/" target = "_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/></a>
+  <a href = "https://www.codingninjas.com/codestudio/profile/Soumyadip" target = "_blank"><img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas"/></a>
 </p>
 
 ## 📱 Contact Me
